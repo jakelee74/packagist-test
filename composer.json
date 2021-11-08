@@ -1,0 +1,16 @@
+{
+    "name": "msts/packagist-test",
+    "description": "MSTS Packagist Test",
+    "autoload": {
+        "psr-4": {
+            "Msts\\PackagistTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jake Lee",
+            "email": "jlee@msts.com"
+        }
+    ],
+    "require": {}
+}
